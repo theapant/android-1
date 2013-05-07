@@ -360,7 +360,7 @@
   <project path="vendor/huawei" name="ShenduOS/android_vendor_huawei" />
   <project path="vendor/lge" name="ShenduOS/android_vendor_lge" />
   <project path="vendor/xiaomi" name="ShenduOS/android_vendor_xiaomi" />
-  <project path="vendor/htc/saga" name="ShenduOS/proprietary_htc_saga" />
+  <project path="vendor/htc/saga" name="ShenduOS/proprietary_htc_saga" revision="master" />
 
   <project path="vendor/qcom/opensource/v8" name="ShenduOS/android_vendor_qcom_opensource_v8" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="ShenduOS/themes-platform-vendor-tmobile-apps-ThemeChooser" />
