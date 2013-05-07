@@ -50,6 +50,8 @@
   <project path="device/lge/p970" name="ShenduOS/android_device_lge_p970" />
   <project path="device/xiaomi/mione_plus" name="ShenduOS/android_device_xiaomi_mione-plus" />
   <project path="device/xiaomi/msm8660-common" name="ShenduOS/android_device_xiaomi_msm8660-common" />
+  <project path="device/htc/msm7x30-common" name="ShenduOS/android_device_htc_msm7x30-common" />
+  <project path="device/htc/saga" name="ShenduOS/android_device_htc_saga" />
 
   <project path="device/sample" name="ShenduOS/android_device_sample" groups="device" />
   <project path="external/aac" name="ShenduOS/android_external_aac" />
@@ -358,6 +360,7 @@
   <project path="vendor/huawei" name="ShenduOS/android_vendor_huawei" />
   <project path="vendor/lge" name="ShenduOS/android_vendor_lge" />
   <project path="vendor/xiaomi" name="ShenduOS/android_vendor_xiaomi" />
+  <project path="vendor/htc/saga" name="ShenduOS/proprietary_htc_saga" />
 
   <project path="vendor/qcom/opensource/v8" name="ShenduOS/android_vendor_qcom_opensource_v8" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="ShenduOS/themes-platform-vendor-tmobile-apps-ThemeChooser" />
