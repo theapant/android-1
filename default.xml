@@ -51,7 +51,9 @@
   <project path="device/xiaomi/mione_plus" name="ShenduOS/android_device_xiaomi_mione-plus" />
   <project path="device/xiaomi/msm8660-common" name="ShenduOS/android_device_xiaomi_msm8660-common" />
   <project path="device/htc/msm7x30-common" name="ShenduOS/android_device_htc_msm7x30-common" />
+  <project path="device/htc/common" name="ShenduOS/android_device_htc_common" />
   <project path="device/htc/saga" name="ShenduOS/android_device_htc_saga" />
+  <project path="device/htc/vivo" name="ShenduOS/android_device_htc_vivo" />
 
   <project path="device/sample" name="ShenduOS/android_device_sample" groups="device" />
   <project path="external/aac" name="ShenduOS/android_external_aac" />
@@ -66,7 +68,7 @@
   <project path="external/blktrace" name="ShenduOS/android_external_blktrace" />
   <project path="external/bluetooth/bluez" name="ShenduOS/android_external_bluetooth_bluez" />
   <project path="external/bluetooth/glib" name="ShenduOS/android_external_bluetooth_glib" />
-    <project path="external/bluetooth/hcidump" name="ShenduOS/android_external_bluetooth_hcidump" />
+  <project path="external/bluetooth/hcidump" name="ShenduOS/android_external_bluetooth_hcidump" />
   <project path="external/bouncycastle" name="ShenduOS/android_external_bouncycastle" />
   <project path="external/bsdiff" name="ShenduOS/android_external_bsdiff" />
   <project path="external/busybox" name="ShenduOS/android_external_busybox" />
@@ -361,6 +363,7 @@
   <project path="vendor/lge" name="ShenduOS/android_vendor_lge" />
   <project path="vendor/xiaomi" name="ShenduOS/android_vendor_xiaomi" />
   <project path="vendor/htc/saga" name="ShenduOS/proprietary_htc_saga" revision="master" />
+  <project path="vendor/htc/vivo" name="ShenduOS/android_proprietary_htc_vivo" />
 
   <project path="vendor/qcom/opensource/v8" name="ShenduOS/android_vendor_qcom_opensource_v8" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="ShenduOS/themes-platform-vendor-tmobile-apps-ThemeChooser" />
