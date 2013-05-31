@@ -56,6 +56,7 @@
   <project path="device/htc/vivo" name="ShenduOS/android_device_htc_vivo" />
 
   <project path="device/sample" name="ShenduOS/android_device_sample" groups="device" />
+  <project path="device/samsung/ancora_tmo" name="camcory/device_ancora_tmo" revision="jb-4.1" />
   <project path="external/aac" name="ShenduOS/android_external_aac" />
   <project path="external/android-mock" name="ShenduOS/android_external_android-mock" />
   <project path="external/antlr" name="ShenduOS/android_external_antlr" />
@@ -213,7 +214,7 @@
   <project path="external/yaffs2" name="ShenduOS/android_external_yaffs2" />
   <project path="external/zlib" name="ShenduOS/android_external_zlib" />
   <project path="external/zxing" name="ShenduOS/android_external_zxing" />
-  <project path="frameworks/av" name="ShenduOS/android_frameworks_av" />
+  <project path="frameworks/av" name="camcory/android_frameworks_av" />
   <project path="frameworks/base" name="ShenduOS/android_frameworks_base" />
   <project path="frameworks/compile/libbcc" name="ShenduOS/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="ShenduOS/android_frameworks_compile_linkloader" />
@@ -222,7 +223,7 @@
   <project path="frameworks/ex" name="ShenduOS/android_frameworks_ex" />
   <project path="frameworks/mff" name="ShenduOS/android_frameworks_mff" />
   <project path="frameworks/ml" name="ShenduOS/android_frameworks_ml" />
-  <project path="frameworks/native" name="ShenduOS/android_frameworks_native" />
+  <project path="frameworks/native" name="camcory/android_frameworks_native" />
   <project path="frameworks/opt/calendar" name="ShenduOS/android_frameworks_opt_calendar" />
   <project path="frameworks/opt/emoji" name="ShenduOS/android_frameworks_opt_emoji" />
   <project path="frameworks/opt/inputmethodcommon" name="ShenduOS/android_frameworks_opt_inputmethodcommon" />
@@ -366,6 +367,7 @@
   <project path="vendor/htc/vivo" name="ShenduOS/android_proprietary_htc_vivo" />
 
   <project path="vendor/qcom/opensource/v8" name="ShenduOS/android_vendor_qcom_opensource_v8" />
+  <project path="device/vendor/ancora_tmo" name="camcory/vendor_ancora_tmo" revision="master" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="ShenduOS/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="ShenduOS/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="ShenduOS/android_vendor_tmobile_providers_ThemeManager" />
