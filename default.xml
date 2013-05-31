@@ -367,7 +367,7 @@
   <project path="vendor/htc/vivo" name="ShenduOS/android_proprietary_htc_vivo" />
 
   <project path="vendor/qcom/opensource/v8" name="ShenduOS/android_vendor_qcom_opensource_v8" />
-  <project path="device/vendor/ancora_tmo" name="camcory/vendor_ancora_tmo" revision="master" />
+  <project path="vendor/samsung/ancora_tmo" name="camcory/vendor_ancora_tmo" revision="master" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="ShenduOS/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="ShenduOS/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="ShenduOS/android_vendor_tmobile_providers_ThemeManager" />
