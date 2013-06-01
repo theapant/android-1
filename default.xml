@@ -25,7 +25,7 @@
   <project path="abi/cpp" name="ShenduOS/android_abi_cpp" />
   <project path="bionic" name="ShenduOS/android_bionic" />
   <project path="bootable/diskinstaller" name="ShenduOS/android_bootable_diskinstaller" />
-  <project path="bootable/recovery" name="Cyanogenmod/android_bootable_recovery" />
+  <project path="bootable/recovery" name="ShenduOS/android_bootable_recovery" />
   <project path="cts" name="ShenduOS/android_cts" />
   <project path="dalvik" name="ShenduOS/android_dalvik" />
   <project path="development" name="ShenduOS/android_development" />
